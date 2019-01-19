@@ -16,8 +16,8 @@ body {
 }
 
 #hello {
-	background:url(../images/background-hello.png) repeat-x;
-	background-color:#5ec8df;
+	/* background:url(../images/background-hello.png) repeat-x; */
+	background-color:#3895D3;
 	padding:10px;
 	text-align:center;
 	margin-top:-10px}
@@ -48,7 +48,7 @@ h4 {line-height:20px;
 
 #container {
 	height:350px;
-	background-color: #5ec8df;
+	background-color: #3895D3;
 	background-image: url(../images/sky.png);
 	background-position: top;
 	background-repeat:repeat-x;
